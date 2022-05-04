@@ -1,6 +1,6 @@
 ### Description
 
-Hypothyroidism-Test
+Hypothyroid-Test On Patients At Nairobi Hospital 
 
 ### Experimental Design
 
